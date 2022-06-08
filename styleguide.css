@@ -1,0 +1,24 @@
+:root { 
+  --black: #000000;
+  --blue-violet: #5b58c5;
+  --cloud: #c6c6c6;
+  --cornflower-blue: #7090e3;
+  --haiti: #161535;
+  --haiti-2: #16153540;
+  --indigo: #5281c7;
+  --mountain-mist: #949494;
+  --port-gore: #232152;
+  --sapphire: #344a99;
+  --scampi: #615ea6bf;
+  --white: #ffffff;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 15px;
+  --font-size-xl: 22px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 25px;
+  --font-size-xxxxl: 28px;
+  --font-size-xxxxxl: 36px;
+ 
+  --font-family-outfit: "Outfit", Helvetica;
+}

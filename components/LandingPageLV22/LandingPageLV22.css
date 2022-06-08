@@ -1,0 +1,9 @@
+.landing-page-l-v2-2 {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 6515px;
+  min-width: 1920px;
+  width: 100%;
+}
+
